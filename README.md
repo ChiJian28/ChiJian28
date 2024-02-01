@@ -75,26 +75,26 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
 <h2 align="left">📌 GitHub Repo</h2>
 <div align="center">
     <a href="https://github.com/ChiJian28/ArtifyGen-AI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=ArtifyGen-AI&show_owner=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=ArtifyGen-AI&hide=stars&show_owner=true"/>
     </a>
     <a href="https://github.com/ChiJian28/DGdrive3.0" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=DGdrive3.0&show_owner=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=DGdrive3.0&hide=stars&show_owner=true"/>
     </a>
 </div>
 <div align="center">
     <a href="https://github.com/ChiJian28/chat-app" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=chat-app&show_owner=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=chat-app&hide=stars&show_owner=true"/>
     </a>
     <a href="https://github.com/ChiJian28/cat-app" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=cat-app&show_owner=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=cat-app&hide=stars&show_owner=true"/>
     </a>
 </div>
 <div align="center">
     <a href="https://github.com/ChiJian28/android-app" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=android-app&show_owner=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=android-app&hide=stars&show_owner=true"/>
     </a>
     <a href="https://github.com/ChiJian28/simple-learning-website" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=simple-learning-website&show_owner=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=simple-learning-website&hide=stars&show_owner=true"/>
     </a>
 </div>
 <br />
