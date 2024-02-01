@@ -19,10 +19,10 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
 </p>
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/bbkx/">
+    <a href="https://www.linkedin.com/in/chijian/">
         <img alt="LinkedIn" title="Checkout My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:bbkx226@gmail.com">
+    <a href="mailto:chijianlim2004@gmail.com">
         <img alt="E-mail" title="Contact me via E-mail" src="https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white">
     </a>
     <a href="https://github.com/ChiJian28">
@@ -72,4 +72,44 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
   <img align="left" src="./assets/angel.png" width="200" height="200" />
     <img align="right" src="./assets/angel-flipped.png" width="200" height="200" />
   <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiJian28&layout=compact&langs_count=6" />
+</div>
+
+<h2 align="left">📌 GitHub Repo</h2>
+<div align="center">
+    <a href="https://github.com/ChiJian28/ArtifyGen-AI" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=ArtifyGen-AI&hide=stars&show_owner=true"/>
+    </a>
+    <a href="https://github.com/ChiJian28/DGdrive3.0" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=DGdrive3.0&hide=stars&show_owner=true"/>
+    </a>
+</div>
+<div align="center">
+    <a href="https://github.com/bbkx226/quizbraniac" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=quizbraniac&hide=stars&show_owner=true"/>
+    </a>
+    <a href="https://github.com/bbkx226/ImageGenerationAI" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=ImageGenerationAI&hide=stars&show_owner=true"/>
+    </a>
+</div>
+<div align="center">
+    <a href="https://github.com/bbkx226/AIverse" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=AIverse&hide=stars&show_owner=true"/>
+    </a>
+    <a href="https://github.com/bbkx226/AI-Summarizer" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=AI-Summarizer&hide=stars&show_owner=true"/>
+    </a>
+</div>
+<div align="center">
+    <a href="https://github.com/bbkx226/BranCoin" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=BranCoin&hide=stars&show_owner=true"/>
+    </a>
+    <a href="https://github.com/bbkx226/Discord-Bot" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Discord-Bot&hide=stars&show_owner=true"/>
+    </a>
+</div>
+
+<br />
+<h2 align="left">🐍 GitHub Contribution</h2>
+<div align="center">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ChiJian28/ChiJian28/output/github-contribution-grid-snake.svg" />
 </div>
