@@ -1,7 +1,7 @@
 <img width="1000" height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFqN2VuaGI3MDFobzVvYWR3c25lcDNjdGljMW1tOGFzcjlpbm81OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" alt="banner" style="object-fit: cover;" loop="infinite" />
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
-    <h1 align="left">😎 Chi Jian</h1>
+    <h1 align="left">🤓 Chi Jian</h1>
     <img align="right" width="180px" height="180px" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" loop="infinite"/>
 </div>
 
@@ -9,7 +9,7 @@
 
 
 <p style='text-align: justify;'>
-Welcome to my GitHub profile! I'm ChiJian, a highly motivated and disciplined computer science student with a strong dedication to building a career in AI and web3 development. Through a blend of self-study and collaboration with my peers, I am consistently refining my skills, working towards the goal of becoming a proficient data scientist and blockchain developer.
+Welcome to my GitHub profile! I'm ChiJian, a highly motivated and disciplined computer science student with a strong dedication to building a career in AI and Web3 development. Through a blend of self-study and collaboration with my peers, I am consistently refining my skills, working towards the goal of becoming a proficient data scientist and blockchain developer.
 </p>
 
 
@@ -35,26 +35,34 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
 <h2>🌟 Languages and Tools</h2>
 
 <div>
-  <img align="left" src="https://media.giphy.com/media/tDvT0cmp28PDyv22Q9/giphy.gif?cid=ecf05e47mi6obefer2v1we210u8on5tvigzrry8ju66sjzm2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="140" loop="infinite"/>
-    <img align="right" src="https://media.giphy.com/media/YNFqVxJqimq2WVBajM/giphy.gif?cid=ecf05e47u3p23l40k61b9m9av6hvpr2c9bl47lc4iybvzmo0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="120" loop="infinite"/>
-   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-   <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-   <img alt="Express JS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-   <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-   <img alt="Ethreum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
-   <img alt="ETHERS JS" src="https://img.shields.io/badge/Ethers.js-F16822?style=for-the-badge&logo=ethers.js&logoColor=white" />
-   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-   <img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<img align="left" src="https://media.giphy.com/media/tDvT0cmp28PDyv22Q9/giphy.gif?cid=ecf05e47mi6obefer2v1we210u8on5tvigzrry8ju66sjzm2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="140" loop="infinite"/>
+<img align="right" src="https://media.giphy.com/media/YNFqVxJqimq2WVBajM/giphy.gif?cid=ecf05e47u3p23l40k61b9m9av6hvpr2c9bl47lc4iybvzmo0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="120" loop="infinite"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=java&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img alt="Express JS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+<img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+<img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
+<img alt="ETHERS JS" src="https://img.shields.io/badge/Ethers.js-F16822?style=for-the-badge&logo=ethers.js&logoColor=white" />
+<img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-F16822?style=for-the-badge&logo=Hardhat&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-FF6C37?style=for-the-badge&logo=Sequelize&logoColor=white" />
+
 </div>
 
 <br />
