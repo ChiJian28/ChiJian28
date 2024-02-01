@@ -1,12 +1,12 @@
 <img width="1000" height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFqN2VuaGI3MDFobzVvYWR3c25lcDNjdGljMW1tOGFzcjlpbm81OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" alt="banner" style="object-fit: cover;" loop="infinite" />
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
     <h1 align="left">😎 Chi Jian</h1>
-    <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
+    <img align="right" width="180px" height="180px" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" loop="infinite"/>
 </div>
 
 **`Undergraduate Student|Malaysian`**
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <p style='text-align: justify;'>
 Welcome to my GitHub profile! I'm ChiJian, a highly motivated and disciplined computer science student with a strong dedication to building a career in AI and web3 development. Through a blend of self-study and collaboration with my peers, I am consistently refining my skills, working towards the goal of becoming a proficient data scientist and blockchain developer.
@@ -35,7 +35,7 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
 <h2>🌟 Languages and Tools</h2>
 
 <div>
-  <img align="left" src="https://media.giphy.com/media/jIqh3ym2s7GU/giphy.gif?cid=ecf05e47u3p23l40k61b9m9av6hvpr2c9bl47lc4iybvzmo0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="140" loop="infinite"/>
+  <img align="left" src="https://media.giphy.com/media/tDvT0cmp28PDyv22Q9/giphy.gif?cid=ecf05e47mi6obefer2v1we210u8on5tvigzrry8ju66sjzm2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="140" loop="infinite"/>
     <img align="right" src="https://media.giphy.com/media/YNFqVxJqimq2WVBajM/giphy.gif?cid=ecf05e47u3p23l40k61b9m9av6hvpr2c9bl47lc4iybvzmo0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="120" loop="infinite"/>
    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -58,6 +58,8 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
 </div>
 
 <br />
+<br />
+<br />
 
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
@@ -65,15 +67,13 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
     <img width="400px" alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com/?user=ChiJian28&theme=great-gatsby&mode=weekly&date_format=M%20j[,%20Y]">
 </div>
 <br />
-<br />
-
 <h2 align="left">🧰 Top used Languages</h2>
 <div>
   <img align="left" src="./assets/angel.png" width="200" height="200" />
     <img align="right" src="./assets/angel-flipped.png" width="200" height="200" />
   <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiJian28&layout=compact&langs_count=6" />
 </div>
-
+<br />
 <h2 align="left">📌 GitHub Repo</h2>
 <div align="center">
     <a href="https://github.com/ChiJian28/ArtifyGen-AI" target="_blank">
@@ -84,30 +84,21 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/bbkx226/quizbraniac" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=quizbraniac&hide=stars&show_owner=true"/>
+    <a href="https://github.com/ChiJian28/chat-app" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=chat-app&hide=stars&show_owner=true"/>
     </a>
-    <a href="https://github.com/bbkx226/ImageGenerationAI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=ImageGenerationAI&hide=stars&show_owner=true"/>
-    </a>
-</div>
-<div align="center">
-    <a href="https://github.com/bbkx226/AIverse" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=AIverse&hide=stars&show_owner=true"/>
-    </a>
-    <a href="https://github.com/bbkx226/AI-Summarizer" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=AI-Summarizer&hide=stars&show_owner=true"/>
+    <a href="https://github.com/ChiJian28/cat-app" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=cat-app&hide=stars&show_owner=true"/>
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/bbkx226/BranCoin" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=BranCoin&hide=stars&show_owner=true"/>
+    <a href="https://github.com/ChiJian28/android-app" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=android-app&hide=stars&show_owner=true"/>
     </a>
-    <a href="https://github.com/bbkx226/Discord-Bot" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Discord-Bot&hide=stars&show_owner=true"/>
+    <a href="https://github.com/ChiJian28/simple-learning-website" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=simple-learning-website&hide=stars&show_owner=true"/>
     </a>
 </div>
-
 <br />
 <h2 align="left">🐍 GitHub Contribution</h2>
 <div align="center">
