@@ -35,8 +35,6 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
 <h2>🌟 Languages and Tools</h2>
 
 <div>
-<img align="left" src="https://media.giphy.com/media/tDvT0cmp28PDyv22Q9/giphy.gif?cid=ecf05e47mi6obefer2v1we210u8on5tvigzrry8ju66sjzm2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="140" loop="infinite"/>
-<img align="right" src="https://media.giphy.com/media/YNFqVxJqimq2WVBajM/giphy.gif?cid=ecf05e47u3p23l40k61b9m9av6hvpr2c9bl47lc4iybvzmo0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="120" loop="infinite"/>
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=java&logoColor=white" />
@@ -84,8 +82,9 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
 <br />
 <h2 align="left">🧰 Top used Languages</h2>
 <div align="center">
-  <img width="350px" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiJian28&layout=compact&langs_count=6&cache_seconds=0" />
+<img width="350px" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiJian28&layout=compact&langs_count=6&cache_seconds=0&hide=HTML,CSS" />
+
 </div>
 
 
