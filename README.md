@@ -37,31 +37,38 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
 <div>
 <img align="left" src="https://media.giphy.com/media/tDvT0cmp28PDyv22Q9/giphy.gif?cid=ecf05e47mi6obefer2v1we210u8on5tvigzrry8ju66sjzm2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="140" loop="infinite"/>
 <img align="right" src="https://media.giphy.com/media/YNFqVxJqimq2WVBajM/giphy.gif?cid=ecf05e47u3p23l40k61b9m9av6hvpr2c9bl47lc4iybvzmo0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="120" loop="infinite"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=java&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img alt="Express JS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
 <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
 <img alt="ETHERS JS" src="https://img.shields.io/badge/Ethers.js-F16822?style=for-the-badge&logo=ethers.js&logoColor=white" />
 <img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-F16822?style=for-the-badge&logo=Hardhat&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-FF6C37?style=for-the-badge&logo=Sequelize&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img alt="GCP" src="https://img.shields.io/badge/GCP-F05032?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 
 </div>
 
@@ -82,19 +89,19 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
 <br />
 <h2 align="left">📌 GitHub Repo</h2>
 <div align="center">
-    <a href="https://github.com/ChiJian28/ArtifyGen-AI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=ArtifyGen-AI&hide=stars&show_owner=true"/>
+    <a href="https://github.com/ChiJian28/book-recommender-system" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=book-recommender-system&hide=stars&show_owner=true"/>
     </a>
-    <a href="https://github.com/ChiJian28/DGdrive3.0" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=DGdrive3.0&hide=stars&show_owner=true"/>
+    <a href="https://github.com/ChiJian28/MiniShop" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=MiniShop&hide=stars&show_owner=true"/>
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/ChiJian28/chat-app" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=chat-app&hide=stars&show_owner=true"/>
+    <a href="https://github.com/ChiJian28/PayChain" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=PayChain&hide=stars&show_owner=true"/>
     </a>
-    <a href="https://github.com/ChiJian28/cat-app" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=cat-app&hide=stars&show_owner=true"/>
+    <a href="https://github.com/ChiJian28/DGDrive3.0" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=DGDrive3.0&hide=stars&show_owner=true"/>
     </a>
 </div>
 <div align="center">
@@ -110,3 +117,4 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
 <div align="center">
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ChiJian28/ChiJian28/output/github-contribution-grid-snake.svg" />
 </div>
+
