@@ -83,20 +83,24 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
 </div>
 <br />
 <h2 align="left">🧰 Top used Languages</h2>
-<div>
-  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiJian28&layout=compact&langs_count=6" />
+<div align="center">
+  <img width="350px" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiJian28&layout=compact&langs_count=6&cache_seconds=0" />
 </div>
+
+
 <br />
 <h2 align="left">📌 GitHub Repo</h2>
 <div align="center">
     <a href="https://github.com/ChiJian28/book-recommender-system" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=book-recommender-system&hide=stars&show_owner=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=book-recommender-system&hide=stars&show_owner=true&cache_seconds=0"/>
     </a>
     <a href="https://github.com/ChiJian28/MiniShop" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=MiniShop&hide=stars&show_owner=true"/>
     </a>
 </div>
-<div align="center">
+
+<div align="center" style="margin-top: 10px;">
     <a href="https://github.com/ChiJian28/PayChain" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=PayChain&hide=stars&show_owner=true"/>
     </a>
@@ -104,14 +108,16 @@ Explore my GitHub portfolio to discover a diverse array of coding projects. Thes
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=DGDrive3.0&hide=stars&show_owner=true"/>
     </a>
 </div>
-<div align="center">
-    <a href="https://github.com/ChiJian28/android-app" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=android-app&hide=stars&show_owner=true"/>
+
+<div align="center" style="margin-top: 10px;">
+    <a href="https://github.com/ChiJian28/ArtifyGen-AI" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=ArtifyGen-AI&hide=stars&show_owner=true"/>
     </a>
     <a href="https://github.com/ChiJian28/simple-learning-website" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiJian28&repo=simple-learning-website&hide=stars&show_owner=true"/>
     </a>
 </div>
+
 <br />
 <h2 align="left">🐍 GitHub Contribution</h2>
 <div align="center">
