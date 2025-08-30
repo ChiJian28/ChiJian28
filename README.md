@@ -11,7 +11,7 @@ Hello! 👋 I’m Lim Chi Jian, a Computer Science sophomore at Monash Universit
 
 ### 💼 Experience
 
-- IT Student Researcher, Monash University Malaysia (Nov 2024 – Feb 2025)
+- IT Student Researcher, Monash University Malaysia (2024 – 2025)
 
 ### 🛠 Skills
 
