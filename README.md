@@ -1,7 +1,7 @@
 # 🤓 Lim Chi Jian
 
 
-Hello! 👋 I’m Lim Chi Jian, a final-year Computer Science at Monash University Malaysia. I build distributed systems and ML solutions, skilled in Go, Python, React, Kubernetes, and FastAPI. Experienced in microservices (10k+ QPS) and Scrum leadership, I’m eager to tackle real-world challenges.
+Hello! 👋 I’m Lim Chi Jian, a final-year Computer Science student at Monash University Malaysia. I build distributed systems and ML solutions, skilled in Go, Python, React, Kubernetes, and FastAPI. Experienced in microservices (10k+ QPS) and Scrum leadership, I’m eager to tackle real-world challenges.
 
 ### 🚀 About Me
 
