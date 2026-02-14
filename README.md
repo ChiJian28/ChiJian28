@@ -1,7 +1,7 @@
 # 🤓 Lim Chi Jian
 
 
-Hello! 👋 I’m Lim Chi Jian, a final-year Computer Science student at Monash University Malaysia. I build distributed systems and ML solutions, skilled in Go, Python, React, Kubernetes, and FastAPI. Experienced in microservices (10k+ QPS) and Scrum leadership, I’m eager to tackle real-world challenges.
+Hello! 👋 I’m Lim Chi Jian, a software engineer with hands-on experience in fintech. Skilled in Golang, relational databases, and Redis, experienced in high-concurrency and permission-sensitive systems. Passionate about scalable architectures and financial infrastructure.
 
 ### 🚀 About Me
 
@@ -10,15 +10,15 @@ Hello! 👋 I’m Lim Chi Jian, a final-year Computer Science student at Monash 
 
 ### 💼 Experience
 
+- Software Engineer Intern, SINEGY Cryptocurrency Exchange (2025 – 2026)
 - IT Student Researcher, Monash University Malaysia (2024 – 2025)
 
 ### 🛠 Skills
 
-- Full-Stack Development: Python, Go, Java, SQL, R, Kotlin, JavaScript/TypeScript, Unix Shell
-- Machine Learning Libraries: Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, LangChain, LangGraph
-- Tools & Platforms: FastAPI, Redis, Kafka, Docker, Kubernetes, PostgreSQL, Sequelize, Firebase, Vercel, Postman, Git, GitHub, GitLab, VSCode, Npm, AWS, GCP
-- Software Development: Microservices architecture, RESTful APIs, CI/CD pipelines, Agile methodologies (Scrum Master experience)
-- Blockchain: Proof-of-Work consensus, Ethereum/Solana blockchain integration
+- Full-Stack Development: Go, Java, C#, Python, SQL, JavaScript/TypeScript
+- Machine Learning Libraries: TensorFlow, PyTorch, LangChain, LangGraph, RAG, VectorDB
+- Tools & Platforms: Git, GitHub, GitLab, Bitbucket, Docker, Redis, Sequelize(ORM), Firebase, Vercel, Postman, AWS
+- Software Development: High-concurrency systems, Data consistency & ACID compliance, Payment & transaction processing systems, Microservices architecture, RESTful APIs
 
 ### 🎓 Education
 - Bachelor of Computer Science in Data Science - Monash University Malaysia
