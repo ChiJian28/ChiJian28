@@ -27,13 +27,13 @@ Hello! 👋 I’m Lim Chi Jian, a software engineer with hands-on experience in 
 
 | Hackathon | Achievement | Project |
 |---|---|---|
-| **Agentic Commerce Hackathon 2026** | 🥇 **Winner — Best Prava Adapter for NANDA Town x OpenAI** | [Project Repo](https://github.com/ChiJian28/nandatown) |
+| **Agentic Commerce Hackathon 2026** | **Winner — Best Prava Adapter for NANDA Town x OpenAI** 🥇| [Project Repo](https://github.com/ChiJian28/nandatown) |
 | **Tencent Cloud Hackathon 2026** | **2nd Place** 🥈 | [Project Repo](https://github.com/ChiJian28/TUNTAS) |
-| **Casper Agentic Buildathon 2026** | 🎯 **Finalist** | [Project Repo](https://github.com/ChiJian28/ARIA) |
-| **OKX.AI Genesis Hackathon** | 🎯 **Listed on AI Agent Marketplace** | [Agent](https://www.okx.ai/agents/4980?source=search&trace_id=27D2C5A5-A95C-4AD9-B264-8F966034D5BE) |
-| **L'Oréal Hackathon 2026** | 🎯 **Top 10 Finalist** | No Repo |
-| **Cleanverse Build: Trusted Assets Hackathon 2026** | 🎯 **Top 13 — DeFi Track** | [Project Repo](https://github.com/ChiJian28/VeriLend) |
-| **Solana Hackfest 2024** | 🎯 **Top 20 Finalist** | No Repo |
+| **Casper Agentic Buildathon 2026** |  **Finalist** 🎯 | [Project Repo](https://github.com/ChiJian28/ARIA) |
+| **OKX.AI Genesis Hackathon** |  **Listed on AI Agent Marketplace** 🎯 | [Agent](https://www.okx.ai/agents/4980?source=search&trace_id=27D2C5A5-A95C-4AD9-B264-8F966034D5BE) |
+| **L'Oréal Hackathon 2026** |  **Top 10 Finalist** 🎯 | No Repo |
+| **Cleanverse Build: Trusted Assets Hackathon 2026** |  **Top 13 — DeFi Track**  🎯| [Project Repo](https://github.com/ChiJian28/VeriLend) |
+| **Solana Hackfest 2024** |  **Top 20 Finalist** 🎯| No Repo |
 
 ### 🌟 Recent Projects
 
