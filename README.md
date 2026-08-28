@@ -33,7 +33,7 @@ Hello! 👋 I’m Lim Chi Jian, a software engineer with hands-on experience in 
 | **OKX.AI Genesis Hackathon** |  **Listed on AI Agent Marketplace** 🎯 | [Agent](https://www.okx.ai/agents/4980?source=search&trace_id=27D2C5A5-A95C-4AD9-B264-8F966034D5BE) |
 | **L'Oréal Hackathon 2026** |  **Top 10 Finalist** 🎯 | No Repo |
 | **Cleanverse Build: Trusted Assets Hackathon 2026** |  **Top 13 — DeFi Track**  🎯| [Project Repo](https://github.com/ChiJian28/VeriLend) |
-| **Solana Hackfest 2024** |  **Top 20 Finalist** 🎯| No Repo |
+| **Solana Hackfest 2024** |  **Top 20 Finalist** 🎯| [Project Repo](https://devfolio.co/projects/soladoctor-dc97) |
 
 ### 🌟 Recent Projects
 
